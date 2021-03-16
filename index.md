@@ -1,4 +1,3 @@
-## Welcome to Webdirect
 
 ## ABOUT US
 
@@ -32,7 +31,7 @@ As a web-development company and online solution provider we provide:
 * Web Application Design & Development
 
 
-## Contacts
+## CONTACTS
 
 WEB DIRECT SRL
 
