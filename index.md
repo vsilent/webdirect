@@ -7,39 +7,49 @@ We help our clients to build their own offshore development centers. All that yo
 
 ## TECHNOLOGY STACK
 
-* Javascript / (ReactJS, VueJS, AngularJS)
-* Python (Flask, Aiohttp)
-* PHP (Symfony, Laravel)
+* JavaScript / (ReactJS, VueJS, AngularJS)
+* :snake: Python (Flask, Aiohttp)
+* :elephant: PHP (Symfony, Laravel)
+* :crab: Rust (Actix)
 
 
 ## SERVICES
 
 From Web Direct you can hire a programmer or team on contract hiring basis.
 
-We provide possibility to have a direct real time on-line conversation with programmer during the development process. We offer website-designing, website-redesigning, programming, re-factoring, web-software customization, testing.
-• Possibility to select team experts
-• Direct access to each team member
+We provide possibility to have a direct real time on-line conversation with programmer during the development process. 
+We offer programming, re-factoring, web-software customization, deployment.
+* :white_check_mark: Possibility to select team experts
+* :white_check_mark: Direct access to each team member
 
 ## WHAT WE DO
 
 As a web-development company and online solution provider we provide:
-* Software re-engineering & app enhancement
-* Database Design
-* RESTful API programming
-* Design and Development Microservices
-* Opensource Software Development
-* Web Application Design & Development
+* :wrench: Software re-engineering & app enhancement
+* :gear: Database Design
+* :gear: RESTful API programming
+* :whale: Design and Development Microservices
+* :penguin: Opensource Software Development
+* :jigsaw: Web Application Design & Development
+* :octopus: Deployment
+* :shield: IT Security Services 
+* :electric_plug: Plugin Development 
 
 
-## CONTACTS
+## CONTACTS 
+:phone: :writing_hand:
+If you'd like to learn more about our services, please call us or send an e-mail:
+
+```
+
+Contact Person: Julia Tumanova
+Telephone:      +373 22 589767
+E-mail:         info@webdirect.md
 
 WEB DIRECT SRL
 
-Contact person: Julia Tumanova
-Telephone:      +373 22 589767
+Address:        Nicolae Costin street, Chishinau, Republic of Moldova
+Postal Code:    2071
 
-Address:      Nicolae Costin street, Chishinau, Republic of Moldova
-Postal code:  2071
 
-If you'd like to learn more about our services, please send an e-mail: 
-E-mail:       info@webdirect.md
+```
