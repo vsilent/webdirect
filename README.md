@@ -8,36 +8,36 @@ We help our clients to build their own offshore development centers. All that yo
 ## TECHNOLOGY STACK
 
 * JavaScript / (ReactJS, VueJS, AngularJS)
-* Python (Flask, Aiohttp)
-* PHP (Symfony, Laravel)
-* Rust (Actix)
+* :snake: Python (Flask, Aiohttp)
+* :elephant: PHP (Symfony, Laravel)
+* :crab: Rust (Actix)
 
 
 ## SERVICES
 
 From Web Direct you can hire a programmer or team on contract hiring basis.
 
-We provide possibility to have a direct real time on-line conversation with programmer during the development process.
+We provide possibility to have a direct real time on-line conversation with programmer during the development process. 
 We offer programming, re-factoring, web-software customization, deployment.
-* Possibility to select team experts
-* Direct access to each team member
+* :white_check_mark: Possibility to select team experts
+* :white_check_mark: Direct access to each team member
 
 ## WHAT WE DO
 
 As a web-development company and online solution provider we provide:
-* Software re-engineering & app enhancement
-* Database Design
-* RESTful API programming
-* Design and Development Microservices
-* Opensource Software Development
-* Web Application Design & Development
-* Software Deployment
-* IT Security Services
-* Plugin Development
+* :wrench: Software re-engineering & app enhancement
+* :gear: Database Design
+* :gear: RESTful API programming
+* :whale: Design and Development Microservices
+* :penguin: Opensource Software Development
+* :jigsaw: Web Application Design & Development
+* :octopus: Deployment
+* :shield: IT Security Services 
+* :electric_plug: Plugin Development 
 
 
-## CONTACTS
-
+## CONTACTS 
+:phone: :writing_hand:
 If you'd like to learn more about our services, please call us or send an e-mail:
 
 ```
