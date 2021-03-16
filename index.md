@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to Webdirect
 
-You can use the [editor on GitHub](https://github.com/vsilent/webdirect/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ABOUT US
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web Direct is a software IT company located in Republic of Moldova, Eastern Europe.
 
-### Markdown
+We help our clients to build their own offshore development centers. All that you need is just to add the right person to your team and give a development plan. We care about almost everything, discipline, quality and responsibility. We provide dedicated teams of highly skilled professional programmers. We are capable to create terms according your requirements with exactly the skills and experience you need. Our goal is to build long term partnership with clients. Web Direct chooses the best model to combining the premium quality and accessible price.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## TECHNOLOGY STACK
 
-```markdown
-Syntax highlighted code block
+* Javascript / (ReactJS, VueJS, AngularJS)
+* Python (Flask, Aiohttp)
+* PHP (Symfony, Laravel)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## SERVICES
 
-1. Numbered
-2. List
+From Web Direct you can hire a programmer or team on contract hiring basis.
 
-**Bold** and _Italic_ and `Code` text
+We provide possibility to have a direct real time on-line conversation with programmer during the development process. We offer website-designing, website-redesigning, programming, re-factoring, web-software customization, testing.
+• Possibility to select team experts
+• Direct access to each team member
 
-[Link](url) and ![Image](src)
-```
+## WHAT WE DO
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As a web-development company and online solution provider we provide:
+* Software re-engineering & app enhancement
+* Database Design
+* RESTful API programming
+* Design and Development Microservices
+* Opensource Software Development
+* Web Application Design & Development
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsilent/webdirect/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contacts
 
-### Support or Contact
+WEB DIRECT SRL
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact person: Julia Tumanova
+Telephone:      +373 22 589767
+
+Address:      Nicolae Costin street, Chishinau, Republic of Moldova
+Postal code:  2071
+
+If you'd like to learn more about our services, please send an e-mail: 
+E-mail:       info@webdirect.md
